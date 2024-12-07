@@ -160,7 +160,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions or support, contact:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-email@example.com](mailto:riemann.derakhshan@gmail.com)
 - **GitHub Issues**: [Open an issue](https://github.com/<your-repo>/issues)
 
 ---
