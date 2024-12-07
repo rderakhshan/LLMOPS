@@ -1,1 +1,78 @@
-.env
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and package management
+.env/
+.venv/
+env/
+venv/
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Distribution/packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environment
+*.env
+*.venv
+*.virtualenv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS metadata files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Test coverage and reports
+.coverage
+*.cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# C extensions
+*.so
+
+# Data and backups
+*.sqlite3
+*.db
+*.pkl
+*.csv
+*.tsv
+*.json
+*.yaml
+*.xml
+
+# Secret files
+*.key
+*.pem
+*.crt
+
+# Docker-related files
+*.pid
+.dockerignore
+
+# Other cache files
+*.stackdump
+*.pid
+*.pidfile
+.cache/
